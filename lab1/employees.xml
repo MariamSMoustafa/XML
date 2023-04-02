@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+
+<Employees>
+  <Employee>
+    <Name>Mariam Saad</Name>
+    <Phones>
+      <Phone Type="home">5555555</Phone>
+      <Phone Type="mobile">01201111111111</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>Main St.</Street>
+        <BuildingNumber>18</BuildingNumber>
+        <Region>Agami</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+        <Street>2nd St.</Street>
+        <BuildingNumber>44</BuildingNumber>
+        <Region>ElAgmi</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>mariam123@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <Name>Sondos Saeed</Name>
+    <Phones>
+      <Phone Type="work">5190012</Phone>
+      <Phone Type="mobile">0120000000002</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>3nd St.</Street>
+        <BuildingNumber>33</BuildingNumber>
+        <Region>El_Seyouf</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>sondos@gmail.com</Email>
+  </Employee>
+</Employees>
