@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM 'employees.dtd'>
+
+<employees>
+  <employee>
+    <name>Mariam</name>
+    <phones>
+      <phone type="home">01165387542</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Agamy</region>
+        <buildingNumber>20</buildingNumber>
+        <street>st 1</street>
+      </address>
+    </addresses>
+    <email>mariam@gmail.com</email>
+  </employee>
+
+</employees>
