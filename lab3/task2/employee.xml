@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp.xsl"?>
+<employees>
+<employee>
+		<name>Mariam</name>
+		<phones>
+			<phone type="home">01165387542</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>3 str</street>
+				<building_no>20</building_no>
+				<region>Agamy</region>
+				<city>Alex</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>Mariam@gmail.com</email>
+	</employee>
+
+
+<employee>
+		<name>Zina</name>
+		<phones>
+			<phone type="home">055555555555555</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>8 str</street>
+				<building_no>15</building_no>
+				<region>Agamy</region>
+				<city>Alex</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<email>Zina@gmail.com</email>
+	</employee>
+
+    
+</employees>
